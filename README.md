@@ -12,7 +12,7 @@ A preview of the deployed page is shown below.
 N/A
 
 ## Usage
-Access the deployed site at (placeholder). Click on the button to begin generating the password, then answer the prompts that will appear near the top of the page. After the password has generated, highlight it and copy it to the clipboard to save it to a different location.
+Access the deployed site at (placeholder). Click on the button to begin generating the password, then answer the prompts that will appear near the top of the page. After the password has generated, highlight it and copy it to the clipboard to save it to a different location. Reload the page to clear the password box.
 
 ## Credits
 N/A
